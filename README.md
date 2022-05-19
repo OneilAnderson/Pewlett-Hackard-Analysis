@@ -3,6 +3,11 @@
 ## Purpose
 The task that was given to us was to determine the number of retiring employees per title and to label the employees who are eligible for the mentorship program using the SQL skills we developed over the module. The purpose of this report was to prepare for the current employees reaching retirement age, also known as the "silver tsunami."
 
+## Resources
+Data Source - (https://github.com/OneilAnderson/Pewlett-Hackard-Analysis/tree/main/Data)
+Software - Python 3.9.5, PostgreSQL 5.2
+
+
 ## Results
 ### Deliverable 1
 - For the first table in the Deliverable, we combined the employees numbers, first and last names with the table of titles, that contained the titles and dates. We placed this data into a table called "retirement_titles" and linked the primary keys of the title  and employees table. The table was then filtered using the WHERE function and ordered by the employee number. 
