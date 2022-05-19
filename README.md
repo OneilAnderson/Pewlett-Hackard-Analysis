@@ -5,6 +5,7 @@ The task that was given to us was to determine the number of retiring employees 
 
 ## Resources
 Data Source - (https://github.com/OneilAnderson/Pewlett-Hackard-Analysis/tree/main/Data)
+
 Software - Python 3.9.5, PostgreSQL 5.2
 
 
